@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "components/TVChartContainer/index.jsx", "components/TVChartContainer/index.jsx"  ],
+, "components/TVChartContainer/index.tsx", "components/TVChartContainer/index.tsx"  ],
   "exclude": [
     "node_modules"
   ]
